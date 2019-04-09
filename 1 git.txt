@@ -1,2 +1,4 @@
 1 git
 2gitt
+git add 
+git coomitt
