@@ -2,3 +2,6 @@
 2gitt
 git add 
 git coomitt
+ 3 asadf
+
+wasto
